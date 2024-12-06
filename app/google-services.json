@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961074888376",
+    "project_id": "trabalhodm-4c184",
+    "storage_bucket": "trabalhodm-4c184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961074888376:android:76d3c8a1150c65adaa3e4d",
+        "android_client_info": {
+          "package_name": "com.example.trabalho_dm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIES8o6KnVcCFeIFdDaD7g6ciUahh0NWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
